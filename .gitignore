@@ -1,0 +1,17 @@
+# Dataset
+cardio_data.csv
+
+# Saved machine learning models
+*.joblib
+*.pkl
+
+# Secrets and environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
